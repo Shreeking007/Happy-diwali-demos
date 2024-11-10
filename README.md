@@ -1,2 +1,3 @@
 # Happy-diwali-demos
-this is my first git code
+This is my first git code
+Author-Shreyesh BHosale
